@@ -1,4 +1,4 @@
-# BFS-Optimizations-Through-Parallelization
+# BFS Optimizations Through Parallelization
 Authors: Nicholas Boukis & Ethan Wayda
 
 A comparison of optimizations for Breadth-First Search algorithms that utilize parallelization techniques written in C. This includes:
